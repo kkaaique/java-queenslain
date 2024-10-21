@@ -1,0 +1,2 @@
+O jogador teve 6tentativas antes de finalizar o jogo.
+O jogador perdeu.
